@@ -6,7 +6,7 @@
 ---
 
 ## 📊 GitHub Contributions Snake
-![Snake animation](https://github.com/Daffastorevps/Daffastorevps/blob/output/snake.svg)
+![Snake animation](https://github.com/Daffastorevps/Daffastorevps/main/output/snake.svg)
 
 ---
 ⭐️ Powered by [Platane/snk](https://github.com/Platane/snk)
