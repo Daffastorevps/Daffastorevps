@@ -1,15 +1,15 @@
-# 💫 About Me:
-I'm currently working on
+# 👋 Hi, I'm Daffa Pratama  
 
-I'm looking to collaborate on
+💻 DevOps & Automation Enthusiast  
+🚀 Exploring API integration, VPN automation, and cloud technologies  
 
-I'm looking for help with
+---
 
-I'm currently learning
+## 📊 GitHub Contributions Snake
+![Snake animation](https://github.com/Daffastorevps/Daffastorevps/blob/output/snake.svg)
 
-Ask me about
-
-Fun fact
+---
+⭐️ Powered by [Platane/snk](https://github.com/Platane/snk)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pratamadaffa63136@gmail.com)
